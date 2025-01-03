@@ -5,5 +5,7 @@ public class Hello {
 		System.out.println("안녕 세상아!");
 		// 수연
 		// 민이
+		System.out.println("안녕 세상아!");
+		// 박민
 	}
 }
