@@ -7,5 +7,9 @@ public class 정빈 {
         return a * b;
  
     }
+    
+    public double multiply (double a, double b) {
+    	return a * b;
+    }
 
 }
